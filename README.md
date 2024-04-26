@@ -11,7 +11,6 @@ Este proyecto es una aplicación de consola en Java que permite convertir entre 
 - Selección de moneda base y moneda de destino.
 - Mostrar tasas de conversión actualizadas.
 - Interfaz intuitiva de consola.
-- Limpieza de pantalla automática para una mejor experiencia de usuario.
 
 ## Uso
 1. Clona este repositorio en tu máquina local.
